@@ -7,6 +7,7 @@ class StockDashboard extends React.Component {
 		return (
 			<div className='stock-dashboard'>
 				<StockTicker ticker='APPL'/>
+				<StockTicker ticker='MSFT'/>
 			</div>
 		);
 	}

@@ -1,6 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 .stock-dashboard {
 	display: flex;
-	background: #E5CAA3;
 	padding: 30px;
 	flex: 1 0 100%;	
 }
